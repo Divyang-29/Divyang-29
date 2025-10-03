@@ -2,7 +2,7 @@
 
 🧠 MSCIT student at Parul University<br>
 ⚡ Creator of Amply, an EV charging station app<br>
-💻 Skilled in React, Firebase, and building practical web & mobile apps<br>
+💻 Skilled in React, Node.js, Express & MongoDB and building practical web & mobile apps<br>
 🚀 Passionate about solving real-world problems with technology<br>
 🌐 Sharing my projects and coding experiments online
 
